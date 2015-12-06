@@ -1,4 +1,4 @@
-/*COMP3220 ASSIGNMENT 2
+/*COMP3220
 Roynor Thaxter (6200)
 Dukiemar Shaw  (6200)
 Anthony Scott  (6200)
